@@ -1,0 +1,23 @@
+{
+  "name": "adrianstanislaus.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianstanislaus/adrianstanislaus.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianstanislaus/adrianstanislaus.github.io/issues"
+  },
+  "homepage": "https://github.com/adrianstanislaus/adrianstanislaus.github.io#readme",
+  "dependencies": {
+    "smooth-scrollbar": "^8.5.2"
+  }
+}
