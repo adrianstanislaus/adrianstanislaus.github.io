@@ -8,6 +8,9 @@ body{
     font-family: 'Nunito', sans-serif;
     font-size: 2em;
 }
+p{
+    margin: 0%;
+}
 section{
     padding: 8em;
     height: 100vh;
