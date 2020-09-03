@@ -13,11 +13,11 @@ p{
     padding: 0%;
 }
 section{
-    padding: 8em;
+    padding: 5em;
     height: 100vh;
 }
 
 section:nth-of-type(2){
-    background: rgb(48, 108, 238);
+    background: rgb(250, 175, 78);
     color: white;
 }
