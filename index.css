@@ -3,14 +3,14 @@
 }
 
 body{
-    height: 100%;
-    margin: 0%;
+    height: 100vh;
+    margin: 0;
     font-family: 'Nunito', sans-serif;
     font-size: 2em;
 }
 
 section{
-    padding: 5em;
+    padding: 8em;
     height: 100vh;
 
 }
