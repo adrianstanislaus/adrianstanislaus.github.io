@@ -11,7 +11,7 @@ body{
 
 section{
     padding: 30% 300%;
-    
+    margin: 20% 10%;
 }
 
 section:nth-of-type(2){
