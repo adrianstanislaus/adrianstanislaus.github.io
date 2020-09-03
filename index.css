@@ -1,15 +1,15 @@
 *{
-    box-sizing: content-box;
+    box-sizing: border-box;
 }
 
 body{
-    height: 100vh;
+    height: 100% ;
     margin: 0;
     font-family: 'Nunito', sans-serif;
     font-size: 2em;
 }
 section{
-    padding: 8em 5em;
+    padding: 200px 100px;
     height: fit-content;
 }
 
