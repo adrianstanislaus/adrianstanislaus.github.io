@@ -12,6 +12,7 @@ body{
 section{
     padding: 8em;
     height: 100vh;
+    flex: 10%;
 }
 
 section:nth-of-type(2){
