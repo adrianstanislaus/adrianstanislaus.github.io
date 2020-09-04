@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh ;
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    font-size: 2em;
+}
+section{
+    padding: 200px 100px;
+    height: fit-content;
+}
+
+section:nth-of-type(2){
+    background: rgb(48, 108, 238);
+    color: white;
+}
+
+/*# sourceMappingURL=/adrianstanislaus.github.io.9ad09f98.css.map */
