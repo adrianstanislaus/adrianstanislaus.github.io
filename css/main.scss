@@ -69,6 +69,16 @@ header{
         margin: 1em;
     }
 
+    img{
+        filter: invert(1);
+        width: 80px;
+    }
+
+    h5{
+        font-weight: normal;
+        font-size: medium;
+    }
+
 }
 
 h2{
@@ -84,6 +94,15 @@ h2{
         display: grid;
         grid-template-columns: repeat(2,auto);
     } 
+
+    h5{
+
+        font-size: large;
+    }
+
+    img{
+        width: 50px;
+    }
 }
 
 @media(min-width:650px){

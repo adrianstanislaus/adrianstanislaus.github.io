@@ -77,6 +77,17 @@ header ul li a {
   margin: 1em;
 }
 
+.skill-list img {
+  -webkit-filter: invert(1);
+          filter: invert(1);
+  width: 80px;
+}
+
+.skill-list h5 {
+  font-weight: normal;
+  font-size: medium;
+}
+
 h2 {
   text-align: center;
   position: relative;
@@ -88,6 +99,12 @@ h2 {
     display: grid;
     -ms-grid-columns: (auto)[2];
         grid-template-columns: repeat(2, auto);
+  }
+  h5 {
+    font-size: large;
+  }
+  img {
+    width: 50px;
   }
 }
 
