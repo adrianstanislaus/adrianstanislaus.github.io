@@ -56,8 +56,14 @@ header ul li a {
   padding: 0 .6em;
 }
 
+header li:hover {
+  font-weight: bolder;
+  -webkit-text-decoration: underline royalblue;
+          text-decoration: underline royalblue;
+}
+
 .hero-content {
-  margin: 4em 0 2em;
+  margin: 8em 0 8em;
 }
 
 .hero-content .subtitle {

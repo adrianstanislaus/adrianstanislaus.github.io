@@ -31,11 +31,13 @@ ul{
     padding: 1.5em;
     max-width: 1200px;
     margin: 0 auto;
+    
 }
 
 header{
     display: flex;
     justify-content: space-between;
+    
 
     .logo{
         font-weight: bold;
@@ -47,13 +49,22 @@ header{
 
         li a{
             padding: 0 .6em;
+            
         }
+
+    
+    }
+
+    li:hover{
+        font-weight: bolder;
+        text-decoration: underline royalblue ;
     }
 }
 
-.hero-content{
-    margin: 4em 0 2em;
 
+.hero-content{
+    margin: 8em 0 8em;
+    
     .subtitle{
         margin-bottom: 0;
     }
